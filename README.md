@@ -20,3 +20,12 @@ This is a simple **Brick Breaker** game built using **HTML5 Canvas** and **JavaS
 1. Clone or download the repository.
    https://github.com/Chand-007/BreakoutGameCanvasAPI.git
 2. Open the index.html file in your browser to start playing the game.
+
+---
+
+## Screenshot
+
+![Breakout Game](images/breakout.PNG)
+
+
+![Breakout Rules](images/breakout-rules.PNG)
